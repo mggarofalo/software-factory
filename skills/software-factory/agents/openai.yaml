@@ -1,0 +1,4 @@
+interface:
+  display_name: "Software Factory"
+  short_description: "Deliver coherent software with acceptance evidence"
+  default_prompt: "Use $software-factory to inspect our objective and deliver the next useful capability with review and acceptance evidence."
