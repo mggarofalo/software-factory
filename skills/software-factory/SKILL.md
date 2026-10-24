@@ -28,6 +28,7 @@ role needed next:
 Keep one current objective and one integrated delivery in progress by default.
 Parallel work is an option only when authorized, independent and reviewable;
 it is never a prerequisite. Use the [handoff template](templates/handoff.md).
+Before delegating or renewing a worker, apply [bounded agent execution](references/bounded-agents.md).
 
 At a session boundary, record the exact revision, evidence, unresolved work and
 next executable action in the authoritative record. Do not mark work accepted
